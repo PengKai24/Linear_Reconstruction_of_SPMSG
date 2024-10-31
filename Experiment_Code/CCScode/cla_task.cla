@@ -1,0 +1,20 @@
+#include "cla_header.h"
+#include "F2837xD_Cla_typedefs.h"
+#if __TI_COMPILER_VERSION__ < 15009000
+
+typedef unsigned char _Bool;
+
+#endif
+
+#include "F2837xD_device.h"
+#include "F2837xD_Cla_defines.h"
+#include "CLAmath.h"
+
+/* CLA Interrupt block */
+__interrupt void Cla1Task1 ( void )
+{
+  /* Call the system: <Root>/CLATask */
+  /* __mdebugstop(); */
+  {
+  }
+}
