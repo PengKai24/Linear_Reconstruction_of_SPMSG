@@ -9,7 +9,7 @@ MATLAB simulation results of the DC voltage dynamic response under load steps ar
 ### Condition 1: load changes from 45Ω to 500Ω and back to 45Ω at 800r/min
 ![](Sim_FullStateLinear_SPMSG/simulation-800rpm.png)
 
-### Condition 2: load changes from 40Ω to 15Ω and back to 40Ω at 800r/min
+### Condition 2: load changes from 15Ω to 40Ω and back to 15Ω at 800r/min
 ![](Sim_FullStateLinear_SPMSG/simulation-1000rpm.png)
 
 ### Condition 3: load changes from 10Ω to 20Ω and back to 10Ω at 1200r/min
